@@ -940,5 +940,11 @@
     port = 7090;
     valency = 2;
   }
+  {
+    operator = "AEON";
+    addr = "139.99.238.118";
+    port = 6000;
+    valency = 1;
+  }
 
 ]
